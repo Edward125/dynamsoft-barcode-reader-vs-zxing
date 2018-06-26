@@ -15,3 +15,6 @@ Get a [trial license](https://www.dynamsoft.com/CustomerPortal/Portal/Triallicen
 
 ## Barcode Performance
 ![barcode performance](http://www.codepool.biz/wp-content/uploads/2018/06/barcode-performance.PNG)
+
+## Blog
+* [Why You Should Use A Commercial Barcode SDK for Business](https://www.codepool.biz/use-commercial-barcode-sdk-business.html)
